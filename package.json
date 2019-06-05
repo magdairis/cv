@@ -1,0 +1,12 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "md-to-html": "pandoc -f commonmark -t html -o magda-cv.html magda-cv.md"
+  },
+  "author": "",
+  "license": "ISC"
+}
