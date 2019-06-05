@@ -13,9 +13,9 @@ hello@magdairis.com\
 
 </address>
 
-<div class="statement">
+<section id="statement">
 I make visual content that supports social change, independent or community projects, environmental action and accessible learning. Under my umbrella of ‘visual content’ is video, photography and design.
-</div>
+</section>
 
 <section id="work">
 
@@ -23,21 +23,27 @@ I make visual content that supports social change, independent or community proj
 
 <div class="current">
 
-**Self-directed learning & Creative Practice Development**\
-Feb - June 2019\
-India
+### Self-directed learning & Creative Practice Development
+
+<dl>
+<dt><time>Feb - June 2019</time></dt>
+<dt>India</dt>
+<dd>
 * Photography practice exploring public spaces, tourism, architecture and ecology
 * Produced music & dance film with local artists
 * Intro to Javascript, UX Design & Web Development
 * Co-organised [Hillhacks 2019](https://hillhacks.in/) unconference for makers, artists and hackers
 * Gave talk/workshop 'Film, Frame Rates & Stop Motion' at Hillhacks 2019
-  
+</dd> 
+</dl>
+
 </div>
+
 <div class="harmony">
 
-## Visual Editor & Marketing Coordinator
-[**Harmony**](https://www.linkedin.com/company/viaharmony/)\
-Barcelona\
+### Visual Editor & Marketing Coordinator
+[**Harmony**](https://www.linkedin.com/company/viaharmony/)
+Barcelona
 Sept 2017 - Dec 2018
 * Video Production
 * Photography
@@ -49,7 +55,7 @@ Sept 2017 - Dec 2018
 </div>
 <div class="freelance">
 
-## Freelance Videographer
+### Freelance Videographer
 Barcelona\
 Aug 2016 - Sept 2017
 * [Fight, Flight, Free](http://www.irisjacobs.nl/direction-1)
@@ -60,13 +66,13 @@ Aug 2016 - Sept 2017
 </div>
 <div class="volunteer">
 
-## Production Assistant (Volunteer)
+### Production Assistant (Volunteer)
 [**The Missing City Stars**](https://www.themissingcitystars.com/)\
 Barcelona\
 Oct 2016 - June 2017
 * Production Assistant for documentary film-making workshops with community groups
-* Produced 'Making Of' documentary for Baro De Viver project
-* Camera Operator for Bon Pastor project
+* Produced ['Making Of' documentary](https://vimeo.com/218116691) for Baro De Viver project
+* Camera Operator for [_Isaac_](https://vimeo.com/236158121) directed by Bon Pastor community
 * On set photographer for project shoot days
 
 </div>
@@ -96,7 +102,7 @@ Sept 2011 - June 2014
 <section id="bottom">
 <div class="skills">
 
-# Skills
+### Skills
 * Film-making
 * Photography
 * Community Engagement
@@ -131,3 +137,7 @@ Sept 2011 - June 2014
 
 </div>
 </section>
+
+<template id="work-entry">
+
+</template>
