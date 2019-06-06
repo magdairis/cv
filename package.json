@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "md-to-html": "pandoc -f commonmark -t html -o magda-cv.html magda-cv.md"
+    "build-md": "pandoc -f commonmark -t html magda-cv.md | js-beautify --html > magda-cv.html"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {}
 }
