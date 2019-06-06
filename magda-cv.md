@@ -1,17 +1,6 @@
 ---
 title: Magda Iris CV
 ---
-<main>
-<address>
-
-[magdairis.com](https://magdairis.com)\
-+91 91754 10291 (India)\
-+34 68433 6290 (Europe)\
-hello@magdairis.com\
-[LinkedIn](https://www.linkedin.com/in/magdairispetford/)\
-[Instagram](https://www.instagram.com/bymagdairis/)
-
-</address>
 
 <section id="statement">
 I make visual content that supports social change, independent or community projects, environmental action and accessible learning. Under my umbrella of ‘visual content’ is video, photography and design.
@@ -47,7 +36,7 @@ I make visual content that supports social change, independent or community proj
 <dl>
 <dt>
 
-[Harmony](https://www.linkedin.com/company/viaharmony/)
+#### [Harmony](https://www.linkedin.com/company/viaharmony/)
 
 </dt>
 <dt><time>Sept 2017 - Dec 2018</time></dt>
@@ -73,9 +62,10 @@ I make visual content that supports social change, independent or community proj
 <dt>Barcelona</dt>
 <dd>
 
-* [Fight, Flight, Free](http://www.irisjacobs.nl/direction-1)
+#### [Fight, Flight, Free](http://www.irisjacobs.nl/direction-1)
   * Produced 'Making Of' the debut short film of independent director Iris Jacobs
-* [Eye Catching English](http://eyecatchingenglish.com/)
+
+#### [Eye Catching English](http://eyecatchingenglish.com/)
   * Audio book and learning resource videos
 
 </dd>
@@ -89,7 +79,7 @@ I make visual content that supports social change, independent or community proj
 <dl>
 <dt>
 
-[The Missing City Stars](https://www.themissingcitystars.com/)
+#### [The Missing City Stars](https://www.themissingcitystars.com/)
 
 </dt>
 <dt><time>Oct 2016 - June 2017</dt></time>
@@ -111,9 +101,9 @@ I make visual content that supports social change, independent or community proj
 
 # Education
 
-## Into Industry Programme
+### Into Industry Programme
 
-### [Otoxo Productions](https://www.otoxoproductions.com/)
+#### [Otoxo Productions](https://www.otoxoproductions.com/)
 
 <dl>
 <dt>
@@ -131,9 +121,9 @@ I make visual content that supports social change, independent or community proj
 
 <div class="uni">
 
-## BA Media and Communication (Television), 2:1
+### BA Media and Communication (Television), 2:1
 
-### [Birmingham City University](https://www.bcu.ac.uk/)
+#### [Birmingham City University](https://www.bcu.ac.uk/)
 
 <dl>
 <dt><time>Sept 2011 - June 2014</dt></time>
@@ -142,13 +132,22 @@ I make visual content that supports social change, independent or community proj
 </div>
 
 </section>
+<section class="interests">
 
+## Interests
+
+* Using media, art and technology to make the world a better place
+* Storytelling, documenting, finding magic in ordinary places
+* Ethical film-making & photography
+* Community art, media and 'maker' projects
+* Open source software, free information, open public data
+* Grassroots environmentalism and citizen science
+
+</section>
 <section id="bottom">
 <div class="skills">
 
-### Skills
-<dl>
-<dd>
+## Skills
 
 * Film-making
 * Photography
@@ -159,15 +158,10 @@ I make visual content that supports social change, independent or community proj
 * Event Planning
 * Cross-disciplinary Communication
 
-<dd>
-</dl>
 </div>
-
 <div class="tools">
 
-### Tools
-<dl>
-<dd>
+## Tools
 
 * Inkscape
 * Blender
@@ -177,21 +171,6 @@ I make visual content that supports social change, independent or community proj
 * HTML & CSS
 * Javascript
 
-</dd>
-</dl>
-</div>
-
-<div class="interests">
-
-### Interests
-* Using media, art and technology to make the world a better place
-* Storytelling, documenting, finding magic in ordinary places
-* Ethical film-making & photography
-* Community art, media and 'maker' projects
-* Open source software, free information, open public data
-* Grassroots environmentalism and citizen science
-
 </div>
 </section>
-
 </main>
