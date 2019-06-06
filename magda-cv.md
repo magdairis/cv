@@ -1,12 +1,7 @@
 ---
 title: Magda Iris CV
 ---
-
-<div class="wrapper">
-<header>
-
-</header>
-
+<main>
 <address>
 
 [magdairis.com](https://magdairis.com)\
@@ -200,4 +195,5 @@ I make visual content that supports social change, independent or community proj
 </dl>
 </div>
 </section>
-</div>
+
+</main>

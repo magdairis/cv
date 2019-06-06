@@ -1,5 +1,65 @@
-.wrapper {
-    display: grid;
-    grid-template-columns: repeat(6, 1fr);
+body {
+    margin: 0;
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    font-family: "Sawarabi Mincho", "Times New Roman", serif;
+    overflow-x: hidden;
 }
 
+h1, h2, h3, h4, h5 {
+    font-family: "Spectral SC", "Times New Roman", serif;
+}
+
+@media (min-width: 600px) {
+    body>main, body>header {
+        max-width: 60%;
+    }
+}
+
+main {
+    margin: 0 auto;
+    max-width: 87%;
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+address {
+    text-align: center;
+}
+
+dd {
+    margin: 0;
+}
+
+dd>ul {
+    list-style-type: square;
+}
+
+a {
+    color: coral;
+}
+
+body>header {
+    margin: 0 auto;
+    width: 87%;
+    display: flex;
+    justify-content: center;
+}
+
+body>header>svg {
+    width: 80%;
+}
+
+body>header>svg path {
+    stroke-width: 2.5px;
+}
+
+body > header > svg > g > g:nth-child(3) path {
+    stroke-width: 1.5px;
+}
+
+body>header>svg>g>g:nth-child(3) {
+    transform-origin: center;
+    transform: translateX(-1em) rotate(1deg) rotateY(0deg);
+}
