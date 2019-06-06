@@ -1,4 +1,7 @@
-<link rel="stylesheet" href="styles.css">
+---
+title: Magda Iris CV
+---
+
 <div class="wrapper">
 <header>
 
