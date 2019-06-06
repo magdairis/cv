@@ -47,7 +47,7 @@ I make visual content that supports social change, independent or community proj
 <dl>
 <dt>
 
-[**Harmony**](https://www.linkedin.com/company/viaharmony/)
+[Harmony](https://www.linkedin.com/company/viaharmony/)
 
 </dt>
 <dt><time>Sept 2017 - Dec 2018</time></dt>
@@ -89,7 +89,7 @@ I make visual content that supports social change, independent or community proj
 <dl>
 <dt>
 
-[**The Missing City Stars**](https://www.themissingcitystars.com/)
+[The Missing City Stars](https://www.themissingcitystars.com/)
 
 </dt>
 <dt><time>Oct 2016 - June 2017</dt></time>
@@ -112,11 +112,11 @@ I make visual content that supports social change, independent or community proj
 # Education
 
 ## Into Industry Programme
+
+### [Otoxo Productions](https://www.otoxoproductions.com/)
+
 <dl>
 <dt>
-
-[**Otoxo Productions**](https://www.otoxoproductions.com/)
-
 </dt>
 <dt><time>July 2016</dt></time>
 <dt>Barcelona</dt>
@@ -132,9 +132,12 @@ I make visual content that supports social change, independent or community proj
 <div class="uni">
 
 ## BA Media and Communication (Television), 2:1
+
+### [Birmingham City University](https://www.bcu.ac.uk/)
+
 <dl>
-<dt>Birmingham City University</dt>
 <dt><time>Sept 2011 - June 2014</dt></time>
+<dt>Birmingham</dt>
 </dl>
 </div>
 
@@ -181,9 +184,6 @@ I make visual content that supports social change, independent or community proj
 <div class="interests">
 
 ### Interests
-<dl>
-<dd>
-
 * Using media, art and technology to make the world a better place
 * Storytelling, documenting, finding magic in ordinary places
 * Ethical film-making & photography
@@ -191,8 +191,6 @@ I make visual content that supports social change, independent or community proj
 * Open source software, free information, open public data
 * Grassroots environmentalism and citizen science
 
-</dd>
-</dl>
 </div>
 </section>
 

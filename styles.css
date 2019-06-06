@@ -1,27 +1,25 @@
-body {
+html, body {
     margin: 0;
-    position: relative;
     width: 100vw;
     height: 100vh;
-    font-family: "Sawarabi Mincho", "Times New Roman", serif;
     overflow-x: hidden;
+}
+
+body {
+    font-family: "Sawarabi Mincho", "Times New Roman", serif;
 }
 
 h1, h2, h3, h4, h5 {
     font-family: "Spectral SC", "Times New Roman", serif;
 }
 
-@media (min-width: 600px) {
-    body>main, body>header {
-        max-width: 60%;
-    }
-}
 
 main {
     margin: 0 auto;
     max-width: 87%;
     display: flex;
     flex-flow: column nowrap;
+    overflow-x: hidden;
 }
 
 address {
@@ -48,7 +46,8 @@ body>header {
 }
 
 body>header>svg {
-    width: 80%;
+    width: 90%;
+    height: 6em;
 }
 
 body>header>svg path {
@@ -62,4 +61,14 @@ body > header > svg > g > g:nth-child(3) path {
 body>header>svg>g>g:nth-child(3) {
     transform-origin: center;
     transform: translateX(-1em) rotate(1deg) rotateY(0deg);
+}
+
+@media (min-width: 600px) {
+    body>main, body>header {
+        max-width: 60%;
+    }
+    body>header>svg {
+        width: 80%;
+        height: auto;
+    }
 }

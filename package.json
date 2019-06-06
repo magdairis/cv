@@ -7,7 +7,7 @@
     "build-md": "pandoc -s --template template.html --css=styles.css -t html+yaml_metadata_block magda-cv.md | js-beautify --html > index.html",
     "watch": "onchange '*.md' '*.css' 'template.html' -- npm run build-md",
     "serve": "live-server --verbose --wait=200",
-    "dev": "run-p watch serve"
+    "dev": "run-p build-md watch serve"
   },
   "author": "",
   "license": "ISC",
