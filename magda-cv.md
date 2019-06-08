@@ -15,15 +15,14 @@ I make visual content that supports social change, independent or community proj
 ### Self-Directed Learning & Creative Practice Development
 
 <dl>
-<dt><time>Feb - June 2019</time></dt>
+<dt><time>Jan 2019 - June 2019</time></dt>
 <dt>India</dt>
 <dd>
 
 * Photography practice exploring public spaces, tourism, architecture and ecology
 * Produced music & dance film with local artists
 * Intro to HTML, CSS, Javascript, UX Design & Web Development
-* Co-organised [Hillhacks 2019](https://hillhacks.in/) unconference for makers, artists and hackers
-* Gave talk/workshop 'Film, Frame Rates & Stop Motion' at Hillhacks 2019
+* Helped organise and gave film workshop at [Hillhacks 2019](https://hillhacks.in/) unconference for artists, makers and hackers
 
 </dd> 
 </dl>
@@ -43,12 +42,13 @@ I make visual content that supports social change, independent or community proj
 <dt>Barcelona</dt>
 <dd>
 
-* Video Production
-* Photography
-* Digital Marketing
-* Social Media Management
-* Graphic Design
-* Event Planning
+* Produced 10 videos including international events and conferences, tutorials and stop-motion animations.
+* Consistently shot new product photos, documented live events and company culture
+* Developed visual content strategy to engage new communities
+* Established visual continutity between social media pages
+* Cultivated meaningful relationships with customers and community members
+* Created infographics, vector graphics and icons
+* Regularly helped organise meetups engaging local artists and musicians 
 
 </dd>
 </div>
@@ -66,7 +66,7 @@ I make visual content that supports social change, independent or community proj
   * Produced 'Making Of' the debut short film of independent director Iris Jacobs
 
 #### [Eye Catching English](http://eyecatchingenglish.com/)
-  * Audio book and learning resource videos
+  * Recorded and edited an audio book and produced learning resource videos
 
 </dd>
 </dt>
@@ -86,7 +86,7 @@ I make visual content that supports social change, independent or community proj
 <dt>Barcelona</dt>
 <dd>
 
-* Production Assistant for documentary film-making workshops with community groups
+* Production Assistant for documentary film-making workshops with community groups in the outskirts of Barcelona
 * Produced ['Making Of' documentary](https://vimeo.com/218116691) for Baro De Viver project
 * Camera Operator for [_Isaac_](https://vimeo.com/236158121) directed by Bon Pastor community
 * On set photographer for project shoot days
@@ -112,7 +112,7 @@ I make visual content that supports social change, independent or community proj
 <dt>Barcelona</dt>
 <dd>
 
-* Co-directed 2 short documentaries
+* Co-directed 2 short documentaries celebrating the life and work of extraordinary people in the city
 * Presented [_Gabriel_](https://www.youtube.com/watch?v=bs8PpTm_AYs) at BFI Future Film Festival 2017
 
 </dd>
@@ -128,6 +128,12 @@ I make visual content that supports social change, independent or community proj
 <dl>
 <dt><time>Sept 2011 - June 2014</dt></time>
 <dt>Birmingham</dt>
+<dd>
+
+* Dissertation topic - "How are regional identities are presented in _Shameless_?"
+* Final project co-produced a 30 minute documentary _Being Sober_ following the journey of a young woman approaching her first year of sobriety.
+
+</dd>
 </dl>
 </div>
 
