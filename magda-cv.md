@@ -3,7 +3,9 @@ title: Magda Iris CV
 ---
 
 <section id="statement">
-I make visual content that supports social change, independent or community projects, environmental action and accessible learning. Under my umbrella of ‘visual content’ is video, photography and design.
+
+I make magic happen for people creating a positive impact in their local community. Using digital tools to build real relationships and experiences.
+
 </section>
 
 <section id="work">
@@ -11,6 +13,77 @@ I make visual content that supports social change, independent or community proj
 # Work
 
 <div class="current">
+
+### Marketing Coordinator
+<dl>
+<dt>
+
+#### [Royal Birmingham Society of Artists](http://rbsa.org.uk/)
+
+<dl>
+<dt><time>Aug 2019 - Present</time></dt>
+<dt>Birmingham</dt>
+<dd>
+
+* Support the organisation through brand development; updating all logos, imagery and copywriting with consistent tone of voice
+* Promote exhibitions and activities through websites, print and social media.
+* Write and distribute press releases, build and maintain relationships with local and national arts community and media
+* Work with Gallery Director to design and print the exhibition programme brochure
+* Devise creative ways of using social media to build networks and attract new audiences 
+* Regularly update the website and RBSA Art Blog
+* Work with external partners (particularly in Birmingham and the West Midlands) to maximise impact in the arts/culture/heritage/tourism sector. 
+* Coordinate and write email campaigns and newsletters
+
+
+</dd> 
+</dl>
+</div>
+
+<div class="bearjam">
+
+### Co-founder and Creative Lead
+<dl>
+<dt>
+
+#### [Bearjam](https://bearjam.dev/)
+
+<dl>
+<dt><time>Jan 2020 - Present</time></dt>
+<dt>Birmingham</dt>
+<dd>
+
+* Support local businesses and non-profits with branding and web design
+* Create graphics, web design and images that communicate their values
+* Translate client ideas into technical components for web developer
+* Support with social media, email and marketing
+
+</dd> 
+</dl>
+</div>
+<div class="bearwood">
+
+### Volunteer Marketing & Digital Assistant
+<dl>
+<dt>
+
+#### [Bearwood Action For Refugees](https://actionforrefugees.org/)
+
+<dl>
+<dt><time>July 2019 - Present</time></dt>
+<dt>Birmingham</dt>
+<dd>
+
+* Support team with research, marketing ideas and planning for 36,000 Humans campaign
+* Write and schedule social media posts
+* Support at community events for local refugee families
+* Co-created data analysis tool for research purposes
+* Created and shared guides on how to find images under Creative Commons
+* Built new campaign website using HTML and CSS
+
+</dd> 
+</dl>
+</div>
+<div class="previous">
 
 ### Self-Directed Learning & Creative Practice Development
 
@@ -74,7 +147,7 @@ I make visual content that supports social change, independent or community proj
 
 <div class="volunteer">
 
-### Production Assistant (Volunteer)
+### Production Assistant 
 
 <dl>
 <dt>
@@ -155,14 +228,14 @@ I make visual content that supports social change, independent or community proj
 
 ## Skills
 
+* Visual Communication
 * Film-making
 * Photography
-* Community Engagement
-* Visual Communication
-* Web Design & Development
 * Digital Marketing
-* Event Planning
+* Community Engagement
+* Web Design & Development
 * Cross-disciplinary Communication
+* Event Planning
 
 </div>
 <div class="tools">
@@ -173,9 +246,11 @@ I make visual content that supports social change, independent or community proj
 * Blender
 * GIMP
 * Linux
+* Adobe Creative Suite
 * Final Cut Pro
-* HTML & CSS
-* Javascript
+* HTML, CSS & Javascript
+* Buffer
+* Campaign Monitor
 
 </div>
 </section>
