@@ -15,6 +15,7 @@ I make magic happen for people creating a positive impact in their local communi
 <div class="current">
 
 ### Marketing Coordinator
+
 <dl>
 <dt>
 
@@ -25,15 +26,14 @@ I make magic happen for people creating a positive impact in their local communi
 <dt>Birmingham</dt>
 <dd>
 
-* Support the organisation through brand development; updating all logos, imagery and copywriting with consistent tone of voice
-* Promote exhibitions and activities through websites, print and social media.
-* Write and distribute press releases, build and maintain relationships with local and national arts community and media
-* Work with Gallery Director to design and print the exhibition programme brochure
-* Devise creative ways of using social media to build networks and attract new audiences 
-* Regularly update the website and RBSA Art Blog
-* Work with external partners (particularly in Birmingham and the West Midlands) to maximise impact in the arts/culture/heritage/tourism sector. 
-* Coordinate and write email campaigns and newsletters
-
+- Support the organisation through brand development; updating all logos, imagery and copywriting with consistent tone of voice
+- Promote exhibitions and activities through websites, print and social media.
+- Write and distribute press releases, build and maintain relationships with local and national arts community and media
+- Work with Gallery Director to design and print the exhibition programme brochure
+- Devise creative ways of using social media to build networks and attract new audiences
+- Regularly update the website and RBSA Art Blog
+- Work with external partners (particularly in Birmingham and the West Midlands) to maximise impact in the arts/culture/heritage/tourism sector.
+- Coordinate and write email campaigns and newsletters
 
 </dd> 
 </dl>
@@ -42,6 +42,7 @@ I make magic happen for people creating a positive impact in their local communi
 <div class="bearjam">
 
 ### Co-founder and Creative Lead
+
 <dl>
 <dt>
 
@@ -52,10 +53,10 @@ I make magic happen for people creating a positive impact in their local communi
 <dt>Birmingham</dt>
 <dd>
 
-* Support local businesses and non-profits with branding and web design
-* Create graphics, web design and images that communicate their values
-* Translate client ideas into technical components for web developer
-* Support with social media, email and marketing
+- Support local businesses and non-profits with branding and web design
+- Create graphics, web design and images that communicate their values
+- Translate client ideas into technical components for web developer
+- Support with social media, email and marketing
 
 </dd> 
 </dl>
@@ -63,6 +64,7 @@ I make magic happen for people creating a positive impact in their local communi
 <div class="bearwood">
 
 ### Volunteer Marketing & Digital Assistant
+
 <dl>
 <dt>
 
@@ -73,12 +75,12 @@ I make magic happen for people creating a positive impact in their local communi
 <dt>Birmingham</dt>
 <dd>
 
-* Support team with research, marketing ideas and planning for 36,000 Humans campaign
-* Write and schedule social media posts
-* Support at community events for local refugee families
-* Co-created data analysis tool for research purposes
-* Created and shared guides on how to find images under Creative Commons
-* Built new campaign website using HTML and CSS
+- Support team with research, marketing ideas and planning for 36,000 Humans campaign
+- Write and schedule social media posts
+- Support at community events for local refugee families
+- Co-created data analysis tool for research purposes
+- Created and shared guides on how to find images under Creative Commons
+- Built new campaign website using HTML and CSS
 
 </dd> 
 </dl>
@@ -92,10 +94,10 @@ I make magic happen for people creating a positive impact in their local communi
 <dt>India</dt>
 <dd>
 
-* Photography practice exploring public spaces, tourism, architecture and ecology
-* Produced music & dance film with local artists
-* Intro to HTML, CSS, Javascript, UX Design & Web Development
-* Helped organise and gave film workshop at [Hillhacks 2019](https://hillhacks.in/) unconference for artists, makers and hackers
+- Photography practice exploring public spaces, tourism, architecture and ecology
+- Produced music & dance film with local artists
+- Intro to HTML, CSS, Javascript, UX Design & Web Development
+- Helped organise and gave film workshop at [Hillhacks 2019](https://hillhacks.in/) unconference for artists, makers and hackers
 
 </dd> 
 </dl>
@@ -115,13 +117,13 @@ I make magic happen for people creating a positive impact in their local communi
 <dt>Barcelona</dt>
 <dd>
 
-* Produced 10 videos including international events and conferences, tutorials and stop-motion animations.
-* Consistently shot new product photos, documented live events and company culture
-* Developed visual content strategy to engage new communities
-* Established visual continutity between social media pages
-* Cultivated meaningful relationships with customers and community members
-* Created infographics, vector graphics and icons
-* Regularly helped organise meetups engaging local artists and musicians 
+- Produced 10 videos including international events and conferences, tutorials and stop-motion animations.
+- Consistently shot new product photos, documented live events and company culture
+- Developed visual content strategy to engage new communities
+- Established visual continutity between social media pages
+- Cultivated meaningful relationships with customers and community members
+- Created infographics, vector graphics and icons
+- Regularly helped organise meetups engaging local artists and musicians
 
 </dd>
 </div>
@@ -136,10 +138,12 @@ I make magic happen for people creating a positive impact in their local communi
 <dd>
 
 #### [Fight, Flight, Free](http://www.irisjacobs.nl/direction-1)
-  * Produced 'Making Of' the debut short film of independent director Iris Jacobs
+
+- Produced 'Making Of' the debut short film of independent director Iris Jacobs
 
 #### [Eye Catching English](http://eyecatchingenglish.com/)
-  * Recorded and edited an audio book and produced learning resource videos
+
+- Recorded and edited an audio book and produced learning resource videos
 
 </dd>
 </dt>
@@ -147,7 +151,7 @@ I make magic happen for people creating a positive impact in their local communi
 
 <div class="volunteer">
 
-### Production Assistant 
+### Production Assistant
 
 <dl>
 <dt>
@@ -159,10 +163,10 @@ I make magic happen for people creating a positive impact in their local communi
 <dt>Barcelona</dt>
 <dd>
 
-* Production Assistant for documentary film-making workshops with community groups in the outskirts of Barcelona
-* Produced ['Making Of' documentary](https://vimeo.com/218116691) for Baro De Viver project
-* Camera Operator for [_Isaac_](https://vimeo.com/236158121) directed by Bon Pastor community
-* On set photographer for project shoot days
+- Production Assistant for documentary film-making workshops with community groups in the outskirts of Barcelona
+- Produced ['Making Of' documentary](https://vimeo.com/218116691) for Baro De Viver project
+- Camera Operator for [_Isaac_](https://vimeo.com/236158121) directed by Bon Pastor community
+- On set photographer for project shoot days
 
 </dd>
 </dl>
@@ -185,8 +189,8 @@ I make magic happen for people creating a positive impact in their local communi
 <dt>Barcelona</dt>
 <dd>
 
-* Co-directed 2 short documentaries celebrating the life and work of extraordinary people in the city
-* Presented [_Gabriel_](https://www.youtube.com/watch?v=bs8PpTm_AYs) at BFI Future Film Festival 2017
+- Co-directed 2 short documentaries celebrating the life and work of extraordinary people in the city
+- Presented [_Gabriel_](https://www.youtube.com/watch?v=bs8PpTm_AYs) at BFI Future Film Festival 2017
 
 </dd>
 </dl>
@@ -203,8 +207,8 @@ I make magic happen for people creating a positive impact in their local communi
 <dt>Birmingham</dt>
 <dd>
 
-* Dissertation topic - "How are regional identities are presented in _Shameless_?"
-* Final project co-produced a 30 minute documentary _Being Sober_ following the journey of a young woman approaching her first year of sobriety.
+- Dissertation topic - "How are regional identities are presented in _Shameless_?"
+- Final project co-produced a 30 minute documentary _Being Sober_ following the journey of a young woman approaching her first year of sobriety.
 
 </dd>
 </dl>
@@ -215,12 +219,13 @@ I make magic happen for people creating a positive impact in their local communi
 
 ## Interests
 
-* Using media, art and technology to make the world a better place
-* Storytelling, documenting, finding magic in ordinary places
-* Ethical film-making & photography
-* Community art, media and 'maker' projects
-* Open source software, free information, open public data
-* Grassroots environmentalism and citizen science
+- Using art and technology to make the world a better place
+- Storytelling, documenting, finding magic in ordinary places
+- Futures-thinking, regenerative design and long-termism
+- Community art, media and 'maker' projects
+- Open source software, free information, open public data
+- Grassroots environmentalism and citizen science
+- Ethical film-making & photography
 
 </section>
 <section id="bottom">
@@ -228,29 +233,30 @@ I make magic happen for people creating a positive impact in their local communi
 
 ## Skills
 
-* Visual Communication
-* Film-making
-* Photography
-* Digital Marketing
-* Community Engagement
-* Web Design & Development
-* Cross-disciplinary Communication
-* Event Planning
+- Visual Communication
+- Digital Marketing
+- Web Design & Development
+- Brand Strategy & Development
+- Copywriting
+- Film-making & Photography
+- Community Engagement
+- Cross-disciplinary Communication
+- Event Planning
 
 </div>
 <div class="tools">
 
 ## Tools
 
-* Inkscape
-* Blender
-* GIMP
-* Linux
-* Adobe Creative Suite
-* Final Cut Pro
-* HTML, CSS & Javascript
-* Buffer
-* Campaign Monitor
+- Inkscape Vector Graphics
+- Blender Animation Software
+- Adobe Creative Suite (AI, PS, InD)
+- HTML, CSS & Javascript
+- Linux
+- Final Cut Pro
+- Buffer Social Scheduler
+- Campaign Monitor
+- Wordpress CMS
 
 </div>
 </section>
